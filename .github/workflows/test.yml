@@ -7,4 +7,4 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: geniecs/hello-world-javascript-action@main
+      - uses: geniecs/hello-world-javascript-action@echo
